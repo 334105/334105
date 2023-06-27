@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, my name is Akshay Baldew and i'm a student software developing
 
-<!--
-**334105/334105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Akshay
 
-Here are some ideas to get you started:
+    :mortar_board: Student Software Developer
+    
+Languages I have used
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# JavaScript PHP SQL 
+
+Some of the technologies I have worked with
+
+Git GitHub Node.js Laravel
+
+Fun fact: I am very sarcastic
+
